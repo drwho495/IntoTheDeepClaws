@@ -1,5 +1,7 @@
 # 14906 Leviathan Open Source claw
 
+### STEP Files have been curated for 3D printing, keep in mind that there are multiple claw bases for different servos.
+
 
 Created in FreeCAD 1.0rc2
 link: https://github.com/FreeCAD/FreeCAD/releases/tag/1.0rc2
