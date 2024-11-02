@@ -1,4 +1,4 @@
-# 14906 Leviathan Open Source claw
+# 14906 Leviathan Open Source Dual Active Pincher Claw
 
 ### STEP Files have been curated for 3D printing, keep in mind that there are multiple claw bases for different servos.
 
