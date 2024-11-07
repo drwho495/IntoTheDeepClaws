@@ -5,5 +5,4 @@
 ## Some versions of parts in this single active pincher claw can be CNCed out of 3/32" material, or 2 millimeters thick material.
 
 
-Created in FreeCAD 1.0rc2
-link: https://github.com/FreeCAD/FreeCAD/releases/tag/1.0rc2
+Created in FreeCAD 1.0rc2 (https://github.com/FreeCAD/FreeCAD/releases/tag/1.0rc2)
