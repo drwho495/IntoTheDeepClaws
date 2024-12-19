@@ -2,6 +2,8 @@
 
 ### STEP Files have been curated for 3D printing, keep in mind that there are multiple claw bases for different servos.
 
+![Screenshot from 2024-12-19 12-06-19](https://github.com/user-attachments/assets/b90259fa-f64e-4d7e-9668-7c6f77a07c1c)
+
 
 Created in [FreeCAD 1.0.0](https://github.com/FreeCAD/FreeCAD/releases/tag/1.0.0)
 
